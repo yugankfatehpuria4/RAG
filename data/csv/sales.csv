@@ -1,0 +1,11 @@
+order_id,product,category,quantity,price,city,order_date
+1001,Laptop,Electronics,2,65000,Delhi,2026-01-05
+1002,Mouse,Accessories,5,800,Mumbai,2026-01-07
+1003,Keyboard,Accessories,3,1500,Pune,2026-01-10
+1004,Phone,Electronics,1,45000,Delhi,2026-01-12
+1005,Monitor,Electronics,2,18000,Bangalore,2026-01-15
+1006,Headphones,Accessories,4,2500,Chennai,2026-01-18
+1007,Laptop,Electronics,1,72000,Mumbai,2026-01-20
+1008,Tablet,Electronics,3,28000,Pune,2026-01-23
+1009,Mouse,Accessories,7,750,Delhi,2026-01-25
+1010,Monitor,Electronics,1,22000,Bangalore,2026-01-28
